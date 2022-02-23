@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Commons address against the Duke of Lauderdail, presented to His Majesty, May 9, 1679</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38200</idno>
+            <idno type="STC">Wing E2513</idno>
+            <idno type="STC">ESTC R32901</idno>
+            <idno type="EEBO-CITATION">12778237</idno>
+            <idno type="OCLC">ocm 12778237</idno>
+            <idno type="VID">93790</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38200)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93790)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1034:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Commons address against the Duke of Lauderdail, presented to His Majesty, May 9, 1679</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lauderdale, John Maitland, --  Duke of, 1616-1682.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:93790:1"/>
+            <!-- PDF PAGE 22 -->
+            <pb n="1" facs="tcp:93790:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <head>THE Commons Addreſs Againſt the DUKE of LAUDERDAIL, Preſented to His Majeſty, <hi>May</hi> 9. 1679.</head>
+            <p>WE your Majeſties moſt Loyal and Dutiful Sub<g ref="char:EOLhyphen"/>jects, the Commons in this preſent Parliament Aſſembled, finding your Majeſties Kingdoms involved in imminent dangers, and great dif<g ref="char:EOLhyphen"/>culties, by the evil deſigns and pernicious Councels of ſome, who have been, and ſtill are in high places of Truſt and Authority about your Royal Perſon, who contrary to the duty of their places, by their Arbitrary and deſtructive Coun<g ref="char:EOLhyphen"/>ſels, tending to the Subverſion of the Rights, Liberties, and Pro<g ref="char:EOLhyphen"/>perties of your Subjects, and the alteration of the Proteſtant Religion Eſtabliſhed, have endeavoured to alienate the hearts of your good Subjects from your Majeſty and your Govern<g ref="char:EOLhyphen"/>ment, which we by our duty are bound to preſerve. We have juſt reaſon to accuſe <hi>John</hi> Duke of <hi>Lauderdail,</hi> for a chief Promoter of ſuch Councels; and more particularly, for contri<g ref="char:EOLhyphen"/>ving and endeavouring to raiſe jealouſies &amp; Miſunderſtandings between this your Majeſties Kingdom and <hi>Scotland,</hi> whereby Hoſtilities might have enſued and ariſen between both Nations, if not prevented: wherefore we your Majeſties moſt Loyal Subjects cannot but be ſenſibly affected and troubled to ſee ſuch a perſon, notwithſtanding the repeated Addreſſes of your late Paliament, continued in your Council at this time, when the Affairs of your Kingdom require none to be ſet in ſuch im<g ref="char:EOLhyphen"/>ployments, but ſuch as are of known Abilities, Intereſt, and E<g ref="char:EOLhyphen"/>ſteem
+<pb n="2" facs="tcp:93790:2"/>
+               <!-- PDF PAGE 23 -->in the Nation, without all ſuſpition of either miſtaking or betraying the true intereſt of the Kingdom, and conſequent<g ref="char:EOLhyphen"/>ly of Advſing your Majeſty ill.</p>
+            <p>We do therefore beſeech your Majeſty, for the taking away the great Jealouſies and diſſatisfactions amongſt your good Sub<g ref="char:EOLhyphen"/>jects, who are oppreſt with great grief and ſorrow, that your Majeſty will graciouſly be pleaſed to remove the Duke of <hi>Lau<g ref="char:EOLhyphen"/>derdail</hi> from your Majeſties Councils, in your Majeſties King<g ref="char:EOLhyphen"/>doms of <hi>England</hi> and <hi>Scotland,</hi> and from all Offices, Imploy<g ref="char:EOLhyphen"/>ments, and places of Truſt, and from your Majeſties preſence for ever.</p>
+            <div type="speech">
+               <head>A Speech in the Houſe of COMMONS, <hi>upon Reading the Bill againſt the D. of</hi> York, <hi>May</hi> 1679.</head>
+               <p>WE have now the weightieſt matter under our Con<g ref="char:EOLhyphen"/>ſiderations that ever came before us, therefore we ought with the higheſt Zeal to ſpeak our minds boldly for the King and Kingdom: for as the matter is of no leſs importance than to ſecure our Religion to Poſterity, ſo much the rather ſhould we apply our ſelves to manifeſt that we will not be diſcouraged by any ſeeming oppoſition whatſoever.</p>
+               <p>But as the Lord Chancellor lately told us, <hi>This is the time,</hi> ſo I muſt repeat it, <hi>That it is indeed the time;</hi> that is to ſay, <hi>the moment:</hi> which if we ſhould ſuffer to ſlip from us, it may never be in our power to regain, and then our Children may be bound to Curſe us: for I muſt tell you, That it will be utterly impoſ<g ref="char:EOLhyphen"/>ſible ever to ſecure the Proteſtant Religion under a <hi>Popiſh</hi> Suc<g ref="char:EOLhyphen"/>ceſſor, unleſs you do totally diſable him to inherit theſe Prote<g ref="char:EOLhyphen"/>ſtant Countries; and the Tyranny of the See of <hi>Rome</hi> will in<g ref="char:EOLhyphen"/>fallibly ſteal upon us.</p>
+               <p>For to think to reſtrain a King under the Power of a Penal Law, thereby to ſecure Religion, is no more than to bind <hi>Sam<g ref="char:EOLhyphen"/>pſon</hi> with Cords, who as ſoon as 'tis ſaid, <hi>The Philiſtims are upon thee,</hi> will break them all in pieces, and carry the Gates away with him, and leave you open to the Invaſion of the Enemy; no<g ref="char:EOLhyphen"/>thing therefore can be able to ſecure us, but to clip his Locks:
+<pb n="3" facs="tcp:93790:2" rendition="simple:additions"/>
+                  <!-- PDF PAGE 23 -->For if the Papiſts do at this time deſigne to ſubvert our Reli<g ref="char:EOLhyphen"/>gion under a Proteſtant Prince, how much more will they de<g ref="char:EOLhyphen"/>ſigne againſt us under a Popiſh Succeſſor? What will not the Prieſts and Jeſuits undertake, to procure our Deſtruction, when they ſhall have the favour of the Prince, and are ſecured that the Laws and Statutes made againſt them, ſhall not be put in Execution? for 'tis <hi>Coleman</hi>'s Maxime, That if the Popiſh Re<g ref="char:EOLhyphen"/>ligion ſtood upon an equal foot with the Proteſtant, the Popiſh Religion would get the better, as they would manage it; and then our Eſtates could never be ſecure, no, nor our very Lives; and Proteſtants would be diſcouraged, and hardly dare to ſpeak their minds; and Maſſacres may be as frequent and as great here, as they were formerly at <hi>Paris:</hi> So that 'tis clear we can never reſtrain him.</p>
+               <p>The Lord Chancellor in his Speech tells you, That when His Majeſty ſhall happen to dye, we ſhall have a convenient time to ſettle Religion and the Nation. Let me ask you, Muſt we act with the Succeſſor, or without him? If we act with him, he will never conſent to any thing we ſhall do againſt him; if without him, we act as a Common-Wealth; and that he will never ſuffer, but perhaps will ſend his Guards and turn us out of Doors, and what will become of us then?</p>
+               <p>One Reaſon laid down to us likewiſe is, That it is impoſ<g ref="char:EOLhyphen"/>ſible for a Succeſſor to raiſe Money, but by Conſent of Parliament: that point may be eaſily anſwered by us, There are many ſmall Burroughs and Towns who chooſe us, where there are but few Voices; how eaſie is it to purchaſe thoſe Votes by Money? if he ſhould lay out Ten or Twenty thou<g ref="char:EOLhyphen"/>ſand pound for the purchaſe, they would ſoon give it him again; and then the whole Nation will be ruin'd without Redempti<g ref="char:EOLhyphen"/>on. The Speech of the Lord Chancellor is onely a Fig-leaf to cover our Nakedneſs, or rather Leaf-Gold to flatter us; or like a Mother who having a froward Child, and upon neceſſity muſt do ſomething to pacifie it, ſhe gives it any thing ſhe hath, but lets it keep it no longer than ſhe pleaſes.</p>
+               <p>Now I have ſhown you the neceſſity of this Bill, let us next conſider, that the good which will come by it, is far greater than the evil that can enſue upon it; which I will thus demon<g ref="char:EOLhyphen"/>ſtrate: If we give way to a Popiſh Succeſſor, we give away
+<pb n="4" facs="tcp:93790:3"/>
+                  <!-- PDF PAGE 24 -->Religion, and have Popiſh Tyranny for a Recompence; and then conſequently, our Eſtates will be taken away; and for an <hi>Engliſh</hi> man to loſe his Eſtate, is worſe than to loſe his Life, ſince he muſt continue in perpetual Bondage, and be worſe than a Captive ſlave, and ſhall be Prieſt-ridden every day: therefore in my opinion, it is far better for us to reſolve to maintain our Religion, and to ſecure our ſelves by oppoſing any Violence that ſhall be offered to us from abroad, than to be in danger of having our Throats cut every moment, by thoſe that ſhall be amongſt us.</p>
+               <p>Now let us conſider, whether this may be effected by Law, or out of neceſſity. I will put the Caſe, That if a Prince be born to a Kingdome who is either Lunatick, or otherwiſe diſ<g ref="char:EOLhyphen"/>abled to do the Kingdom any good, ſhall not the Subjects in this caſe proceed to chuſe another who may preſerve the Kingdom, when otherwiſe it muſt of neceſſity periſh? As lately in the Caſe of <hi>Portugal,</hi> they choſe another to ſucceed, becauſe of the diſability of the former; And ſhall not we then diſable the Duke, who cannot poſſibly do the Nation any ſer<g ref="char:EOLhyphen"/>vice, his Principles being ſo contrary and deſtructive to the Laws, Statutes, and Conſtitutions of this Government, as no<g ref="char:EOLhyphen"/>thing but ruine can enſue thereby?</p>
+               <p>Now as to the Point of Law, I muſt ſay, that as for a pri<g ref="char:EOLhyphen"/>vate perſon to riſe againſt his Prince is Rebellion; ſo on the contrary, when there is an Act of Parliament to diſable him, and that upon ſuch good grounds and reaſons as we have heard read againſt him this day, we ſhall be juſtified by all the World in oppoſing his Claim; and we have had Preſidents of this kind heretofore. And it was Enacted in Queen <hi>Eliza<g ref="char:EOLhyphen"/>beths</hi> time, That thoſe who durſt any way diſpute that the King and Parliament could not appoint a Succeſſour, ſhould be guilty of a Premunire.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:93790:3"/>
+               <!-- PDF PAGE 24 -->
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
